@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "423417687242",
+    "firebase_url": "https://cs2340-team48.firebaseio.com",
+    "project_id": "cs2340-team48",
+    "storage_bucket": "cs2340-team48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423417687242:android:85ebc049ca38a049",
+        "android_client_info": {
+          "package_name": "com.example.jake.cs_2340_team_48"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423417687242-or49rhj1rf24a2ispsru6skuteuqdnvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO7UWZqvC1s5jwkLcuRx4f6-ZC1Vytw7k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

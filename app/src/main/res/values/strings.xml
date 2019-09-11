@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CS-2340-Team-48</string>
+
+    <!-- Strings related to login -->
+    <string name="google_maps_API_key">AIzaSyDLY-fQZEjp5WIAMXNg-v9IK4QON58LA9g</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is incorrect</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="password_exists">Password exists, choose different password</string>
+    <string name="email_exists">Email exists, choose different email or login</string>
+    <string name="search">Search for shelters by keyword</string>
+    <string name="question">?</string>
+    <string name="explaination">If you are confused about how to search for specific shelters, each
+    shelter has specific criteria. You can search for the shelters by location in latitude, and longitude,
+    the shelter\'s name, gender of those allowed (typically accepting men, women, or anyone), the capacity, the address, the phone number, special notes and
+    any other restrictions the shelter might have. </string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
